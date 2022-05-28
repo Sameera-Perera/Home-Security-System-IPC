@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465758223391",
+    "firebase_url": "https://home-security-systems-45ee6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "home-security-systems-45ee6",
+    "storage_bucket": "home-security-systems-45ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465758223391:android:b2592d77909afb034aa92a",
+        "android_client_info": {
+          "package_name": "com.sameera_perera.home_security_systems.home_security_systems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465758223391-l1d6u5m4v2vlu09vbnub67krjo9s195m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdflSTAM11PvGP8pOKaB6xQQwnnq3wN40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465758223391-l1d6u5m4v2vlu09vbnub67krjo9s195m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
